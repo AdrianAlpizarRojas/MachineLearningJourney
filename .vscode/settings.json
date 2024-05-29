@@ -1,0 +1,5 @@
+{
+    "python.analysis.extraPaths": [
+        "./ML-AndrewNg-main/C1-Supervised ML_Regression and Classification/Week 1"
+    ]
+}
